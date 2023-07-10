@@ -1,14 +1,4 @@
-.bannerBgImage {
 
-    height: 20cm;
-    width: 45cm;
-
-    background-image: url("image/bannerImages.jpg");
-    background-size: 35cm;
-    background-position: center;
-    background-repeat: no-repeat;
-
-}
 
 .bannerText {
     text-align: center;
