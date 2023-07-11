@@ -18,9 +18,9 @@
 }
 
 @media screen and (min-width: 480px) {
-   bannerTitle{
-        text-align: center;
-        
+   .bannerTitle{
+       margin-left:20px;
+       padding:10px;
    }
 }
 
